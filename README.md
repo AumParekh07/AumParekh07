@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<video src="https://cdnl.iconscout.com/lottie/premium/thumb/man-developer-doing-programming-animation-gif-download-12008976.mp4" autoplay="autoplay" muted="muted" loop="loop" playsinline type="video/mp4"></video>
+
+
 <!--
 **AumParekh07/AumParekh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
