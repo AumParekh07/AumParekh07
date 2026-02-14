@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <video autoplay loop muted playsinline width="320">
-  <source src="https://raw.githubusercontent.com/AumParekh07/AumParekh07/main/assets/male-focused-animation.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/AumParekh07/AumParekh07/main/assets/man-programming-animation.mp4" type="video/mp4">
 </video>
 
 <!--
